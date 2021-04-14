@@ -1,3 +1,3 @@
-<p>To start using that project you need:<p/>
-  Python 3.7 or newer
-  Pygame 2.0
+To start using that project you need:<br>
+  Python 3.7 or newer<br>
+  Pygame 2.0<br>
